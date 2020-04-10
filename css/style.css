@@ -17,6 +17,6 @@ h2 {
   font-size: 12px;
 }
 .completed {
-  backgound: #ccc;
+  background: #ccc;
   text-decoration: underline;
 }
