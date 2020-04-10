@@ -16,8 +16,7 @@ h2 {
 .completed {
   font-family: 12px;
 }
-
-#tasks .completed {
+.completed {
   backgound: #ccc;
   text-decoration: underline;
 }
